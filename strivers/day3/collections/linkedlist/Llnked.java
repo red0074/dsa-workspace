@@ -1,4 +1,4 @@
-package day3.collections;
+package linkedlist;
 public class Llnked{
     Node head;
     class Node{
