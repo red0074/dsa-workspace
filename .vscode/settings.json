@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": [
+    "strivers/day3/collections",
+    "strivers",
+    "lc-blind75/Twosum(lc-1)/Bruteforce",
+    "lc-blind75/Twosum(lc-1)/Optimal"
+  ]
+}
