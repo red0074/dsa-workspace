@@ -1,3 +1,4 @@
+//tc: O(n) sc: O(n)
 import java.util.*;
 public class Solution {
     public static void main(String[] args) {

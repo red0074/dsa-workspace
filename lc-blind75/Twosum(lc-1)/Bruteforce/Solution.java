@@ -1,3 +1,4 @@
+//tc: O(n^2) sc: o(2)
 import java.util.*;
 public class Solution {
     public static void main(String args[]){
