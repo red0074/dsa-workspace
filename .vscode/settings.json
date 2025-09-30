@@ -4,10 +4,12 @@
     "strivers",
     "lc-blind75/Twosum(lc-1)/Optimal",
     "lc-blind75/Twosum(lc-1)/Bruteforce",
+    "lc-blind75/ProductOfArrayExceptSelf(lc-238)/Bruteforce",
     "lc-blind75/ContainsDuplicate(lc-217)/Optimal",
     "lc-blind75/ContainsDuplicate(lc-217)/Bruteforce",
+    "lc-blind75/ContainsDuplicate(lc-217)/Better",
     "lc-blind75/BestTimeToBuyandSellStock(lc-121)/optimal",
     "lc-blind75/BestTimeToBuyandSellStock(lc-121)/Bruteforce",
-    "lc-blind75/ContainsDuplicate(lc-217)/Better"
+    "lc-blind75/ProductOfArrayExceptSelf(lc-238)/Better"
   ]
 }
