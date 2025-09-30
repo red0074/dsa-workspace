@@ -1,4 +1,4 @@
-//tc:O(n^2) sc:O()
+//tc:O(n^2) sc:O(n)
 import java.util.*;
 public class ProductSelf {
     public static void main(String[] args) {

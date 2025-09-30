@@ -1,3 +1,4 @@
+//tc:O(n) sc: O(1)
 import java.util.Scanner;
 
 public class ProductSelf {
